@@ -1,0 +1,7 @@
+grails:
+    config:
+        locations:
+          - file:///C:/Eva/Eva-config.yml
+
+
+
